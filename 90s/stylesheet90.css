@@ -1,0 +1,124 @@
+
+
+*{
+  font-family: monospace;
+}
+
+.logo{
+  max-width: 550px;
+  max-height: 350px;
+  display: block;
+  margin: auto;
+}
+
+
+.background{
+  padding-top: 50px;
+  height: 900px;
+  background: url('background.png') repeat;
+
+
+}
+
+.main-nav {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+.main-nav a{
+  color: #0C0842;
+  text-decoration: none;
+}
+
+
+
+
+.main-nav a:visited {
+   color: #201F32;
+}
+
+.main-nav a:hover {
+   color: #F3D21C;
+
+}
+
+
+
+.card {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+    max-width: 700px;
+    background: rgba(255, 252, 242, .9);
+    background-position: center;
+    border-radius: 15px;
+    text-align: center;
+    position: relative;
+
+
+}
+
+
+.random {
+
+  background-image: url(https://picsum.photos/200/200/?random);
+  background-repeat: no-repeat;
+  display: block;
+  text-align:
+}
+
+
+/* About---*/
+
+.title{
+  text-align: center;
+  font-size: 45px;
+  color: #D60C0C;
+
+}
+
+
+
+
+
+
+/* me page------*/
+
+.frame {
+        margin: 30px;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 1px solid #FFCC73;
+        display: inline-block;
+
+
+}
+
+
+
+ ul li{
+   padding-bottom: 15px;
+
+
+ }
+
+.young ul{
+ display: block;
+ float: left;
+
+ margin-right: 30px;
+ padding: 35px;
+
+}
+
+.old ul{
+  display: block;
+  margin-left: 20px;
+  padding: 30px;
+
+
+}
